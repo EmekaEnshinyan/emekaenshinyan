@@ -2,10 +2,10 @@
 
 [![Website](https://img.shields.io/website?label=EmekaAnekwe.com&style=for-the-badge&url=https%3A%2F%2Femekaanekwe.com)](https://emekaanekwe.com)
 
-## I'm Building My Career In Software Developement (Aiming Towards Full Stack)!
+## I'm Actively Looking To Start My Career Passion: Computer Science (Special Interest Towards Full Stack Dev)!
 
 - 🔭 
-- 🌱 I’m working constantly on following my passion in becoming a software developer 🤣
+- 🌱 I’m working constantly on following my passion in becoming a software developer :smile:
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 
 - ⚡ Fun facts: I'm a mixed martial artist, I speak Spanish and Japanese, and I like to study International Affairs!
@@ -46,33 +46,13 @@ INTELLIJ
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+- [How I learned To Use PicoCli - ](https://emekaanekwe.com)
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://emekaanekwe.com)
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#49](https://github.com/codeSTACKr/create-10k-nft-collection/issues/49) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-2. 🗣 Commented on [#49](https://github.com/codeSTACKr/create-10k-nft-collection/issues/49) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-3. ❗️ Closed issue [#50](https://github.com/codeSTACKr/create-10k-nft-collection/issues/50) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-4. ❗️ Closed issue [#51](https://github.com/codeSTACKr/create-10k-nft-collection/issues/51) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-5. 🗣 Commented on [#51](https://github.com/codeSTACKr/create-10k-nft-collection/issues/51) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://www.emekaanekwe.com
 [course]: http://vsCodeHero.com
