@@ -34,18 +34,12 @@ INTELLIJ
 
 ---
 
-### 📺
-
----
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [How I learned To Use PicoCli - ](https://emekaanekwe.com)
 
 <!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://emekaanekwe.com)
 
 ---
 
