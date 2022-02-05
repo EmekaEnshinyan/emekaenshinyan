@@ -3,13 +3,11 @@
 
 [![Website](https://img.shields.io/website?label=EmekaAnekwe.com&style=for-the-badge&url=https%3A%2F%2Femekaanekwe.com)](https://emekaanekwe.com)
 
-## I'm Actively Looking To Start My Career, My Passion, in Computer Science (Special Interest Towards Full Stack Dev)!
+## I'm Actively Looking To Start My Career in Computer Science (Special Interest in Full Stack Dev)!
 
-- 🔭 
 - 🌱 I’m working constantly on following my passion in becoming a software developer :smile:
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 
-- ⚡ Fun facts: I'm a mixed martial artist, I speak Spanish and Japanese, and I like to study International Affairs!
+- ⚡ Fun facts: I'm a mixed martial artist, I speak Spanish and Japanese, and I like to study the brain sciences.
 
 ### Connect with me:
 
@@ -28,6 +26,7 @@ INTELLIJ
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+
 
 
 <br />
