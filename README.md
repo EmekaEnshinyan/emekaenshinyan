@@ -21,6 +21,11 @@ JAVA
 SPRINGBOOT
 JAVASCRIPT
 INTELLIJ
+
+
+[<img align="left" alt="JavaScript" width="26px" src="https://github.com/EmekaEnshinyan/emekaenshinyan/blob/ab6d3fec4162f6bb2b33fcf5c48c6341517197f1/springboot.png" />][jsplaylist]
+
+
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
