@@ -1,4 +1,5 @@
-### Hi there, I'm Emeka 👋 
+### Hi there, I'm Emeka! 
+### I'm A Quick-Learning Self-Taught Programmer Who Is Dedicated To Becoming A Software Developer  👋 
 
 [![Website](https://img.shields.io/website?label=EmekaAnekwe.com&style=for-the-badge&url=https%3A%2F%2Femekaanekwe.com)](https://emekaanekwe.com)
 
