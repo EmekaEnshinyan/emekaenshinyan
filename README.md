@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/website?label=EmekaAnekwe.com&style=for-the-badge&url=https%3A%2F%2Femekaanekwe.com)](https://emekaanekwe.com)
 
-## I'm Actively Looking To Start My Passion in Computer Science (Special Interest Towards Full Stack Dev)!
+## I'm Actively Looking To Start My Career, My Passion, in Computer Science (Special Interest Towards Full Stack Dev)!
 
 - 🔭 
 - 🌱 I’m working constantly on following my passion in becoming a software developer :smile:
