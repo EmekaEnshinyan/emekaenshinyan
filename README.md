@@ -28,7 +28,7 @@ INTELLIJ
 
 [<img align="left" alt="JavaScript" width="26px" src="https://github.com/EmekaEnshinyan/emekaenshinyan/blob/ea1ae43808c5fe72f153d7b94ed49ada4c72a8e2/IntelliJ_IDEA_Icon.svg.png"/>][jsplaylist]
 
-[<img align="left" alt="JavaScript" width="26px" src="https://github.com/EmekaEnshinyan/emekaenshinyan/blob/3966dd1b7367672f11d1fd4a380604e0a2fc0744/java.jpg"/>][jsplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://github.com/EmekaEnshinyan/emekaenshinyan/blob/ea1ae43808c5fe72f153d7b94ed49ada4c72a8e2/java2.jpg"/>][jsplaylist]
 
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
