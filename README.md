@@ -1,5 +1,5 @@
 ## Hi there, I'm Emeka!  👋 
-## I'm A Quick-Learning Self-Taught Programmer Who Is Dedicated To Becoming A Software Developer!
+## I'm A Self-Taught Programmer Who Is Passionate About Becoming A Software Developer!
 
 [![Website](https://img.shields.io/website?label=EmekaAnekwe.com&style=for-the-badge&url=https%3A%2F%2Femekaanekwe.com)](https://emekaanekwe.com)
 
@@ -26,10 +26,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 <img align="left" alt="IntelliJ" width="26px" src="https://github.com/EmekaEnshinyan/emekaenshinyan/blob/ea1ae43808c5fe72f153d7b94ed49ada4c72a8e2/IntelliJ_IDEA_Icon.svg.png"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-
-
-
-
 
 <br />
 <br />
