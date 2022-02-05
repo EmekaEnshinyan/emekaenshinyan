@@ -26,7 +26,7 @@ INTELLIJ
 [<img align="left" alt="JavaScript" width="26px" src="https://github.com/EmekaEnshinyan/emekaenshinyan/blob/ab6d3fec4162f6bb2b33fcf5c48c6341517197f1/springboot.png" />][jsplaylist]
 
 
-[<img align="left" alt="JavaScript" width="26px" src="https://github.com/EmekaEnshinyan/emekaenshinyan/blob/3966dd1b7367672f11d1fd4a380604e0a2fc0744/IntelliJ_IDEA_logo_01.png"/>][jsplaylist]
+[<img align="left" alt="JavaScript" width="78px" src="https://github.com/EmekaEnshinyan/emekaenshinyan/blob/3966dd1b7367672f11d1fd4a380604e0a2fc0744/IntelliJ_IDEA_logo_01.png"/>][jsplaylist]
 
 [<img align="left" alt="JavaScript" width="26px" src="https://github.com/EmekaEnshinyan/emekaenshinyan/blob/3966dd1b7367672f11d1fd4a380604e0a2fc0744/java.jpg"/>][jsplaylist]
 
