@@ -32,7 +32,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Upcoming Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [What I learned from using PicoCli - ](https://emekaanekwe.com)
