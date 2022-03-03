@@ -42,4 +42,4 @@
 ---
 
 [website]: https://www.emekaanekwe.com
-[linkedin]: www.linkedin.com/in/emeka-software-dev
+[linkedin]: www.linkedin.com/in/emeka-programmer
