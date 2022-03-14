@@ -1,5 +1,5 @@
 ## Hi there, I'm Emeka!  👋 
-## I'm A Self-Taught Programmer Who Is Passionate About Becoming A Software Developer!
+## I'm A Passionate Self-Taught Programmer Who Uses Java and JavaScript To Make Full Stack Applications!
 
 [![Website](https://img.shields.io/website?label=EmekaAnekwe.com&style=for-the-badge&url=https%3A%2F%2Femekaanekwe.com)](https://emekaanekwe.com)
 
