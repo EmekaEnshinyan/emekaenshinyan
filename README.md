@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/website?label=EmekaAnekwe.com&style=for-the-badge&url=https%3A%2F%2Femekaanekwe.com)](https://emekaanekwe.com)
 
-### I'm Actively Looking For Career Opportunities (Specialty: Java, Spring MVC, Javascript, React, Node.js)
+### I'm Actively Looking For Career Opportunities (Specialty: Java, Springboot, Javascript, HTML/CSS, Node.js)
 
 - 🌱 I’m working constantly on following my passion in becoming a software developer
 - 👯 I’m looking to collaborate with other content creators
