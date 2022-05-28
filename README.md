@@ -7,7 +7,7 @@
 
 - 🌱 I’m working constantly on following my passion in becoming a software developer
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun facts: I'm a mixed martial artist, I speak Spanish and Japanese, and I like to study the brain sciences.
+- ⚡ Fun facts: I'm a mixed martial artist with a focus in boxing and Muay Thai, I speak Spanish and Japanese, and I like to study the brain sciences.
 
 ### Connect with me:
 
