@@ -1,5 +1,5 @@
 ## Hi there, I'm Emeka!  👋 
-## I'm A Passionate Self-Taught Programmer Who Uses Java and JavaScript To Make Full Stack Applications!
+## I'm A Passionate Self-Taught Programmer Who Uses JavaScript and Java To Make Full Stack Applications!
 
 [![Website](https://img.shields.io/website?label=EmekaAnekwe.com&style=for-the-badge&url=https%3A%2F%2Femekaanekwe.com)](https://emekaanekwe.com)
 
@@ -14,7 +14,7 @@
 [<img align="left" alt="emekaanekwe.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Emeka | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+<br/>
 
 ### Languages and Tools:
 
