@@ -1,7 +1,5 @@
 ## Hi there, I'm Emeka!  👋 
-## I'm a Self-Taught Programmer Who Uses JavaScript and Java To Make Web & Full Stack Applications!
-
-[![Website](https://img.shields.io/website?label=EmekaAnekwe.com&style=for-the-badge&url=https%3A%2F%2Femekaanekwe.com)](https://emekaanekwe.com)
+## I'm a Self-Taught Programmer Who Is Constantly Improving My Skills and Knowledge In Order To Turn My Passion Into A Career!
 
 ### I'm Actively Looking For Career Opportunities (Specialty: Java, Springboot, Javascript, React, HTML/CSS, Node.js, C#, SQL)
 
@@ -14,6 +12,7 @@
 [<img align="left" alt="emekaanekwe.com" width="42px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Emeka | LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[![Website](https://img.shields.io/website?label=EmekaAnekwe.com&style=for-the-badge&url=https%3A%2F%2Femekaanekwe.com)](https://emekaanekwe.com)
 <br/>
 
 ### Languages and Tools:
