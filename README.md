@@ -36,7 +36,7 @@
 ### 📕 Upcoming Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What I learned from using PicoCli - ](https://emekaanekwe.com)
+- [##Not Currently Blogging##](https://emekaanekwe.com)
 
 <!-- BLOG-POST-LIST:END -->
 
