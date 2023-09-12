@@ -1,7 +1,7 @@
 ## Hi there, I'm Emeka!  👋 
 ## I'm a Self-Taught Programmer Who Is Constantly Improving My Skills and Knowledge In Order To Turn My Passion Into A Career!
 
-### I'm Actively Looking For Career Opportunities (Specialty: Java, Springboot, Javascript, React, Python, AI/ML, SQL)
+### I'm Actively Looking For Career Opportunities (Focus: Java, Springboot, Javascript, React, Python, AI/ML, SQL)
 
 - 🌱 I’m working constantly on following my passion in becoming a software developer
 - 👯 I’m looking to collaborate with other content creators
