@@ -1,7 +1,7 @@
 ## Hi there, I'm Emeka!  👋 
 ## I'm a Self-Taught Programmer Who Is Constantly Improving My Skills and Knowledge In Order To Turn My Passion Into A Career!
 
-### I'm Actively Looking For Career Opportunities (Focus: Java, Springboot, Javascript, React, Python, AI/ML, SQL)
+### I'm Actively Looking For Career Opportunities (Focus: Python, Javascript, React.js)
 
 - 🌱 I’m working constantly on following my passion in becoming a software developer
 - 👯 I’m looking to collaborate with other content creators
@@ -12,7 +12,11 @@
 [<img align="left" alt="Emeka | LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [![Website](https://img.shields.io/website?label=EmekaAnekwe.com&style=for-the-badge&url=https%3A%2F%2Femekaanekwe.com)](https://emekaanekwe.com)
+
+
+[![Website](https://img.shields.io/website?label=PairProgrammingMeetup.com&style=for-the-badge&url=https%3A%2F%2Fmeetu.ps/c/55c98/RzPwJ/d)](https://meetu.ps/c/55c98/RzPwJ/d)
 <br/>
+
 
 ### Languages and Tools:
 
