@@ -7,14 +7,19 @@
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun facts: I'm a mixed martial artist who's strengths are in boxing and Muay Thai, I speak Spanish and Japanese, and I like to study the brain sciences.
 
-### Connect with me:
-
-[<img align="left" alt="Emeka | LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Join My Meetup Group To Engage in Pair Programming!
 
 [![Website](https://img.shields.io/website?label=EmekaAnekwe.com&style=for-the-badge&url=https%3A%2F%2Femekaanekwe.com)](https://emekaanekwe.com)
+<br/>
 
+### Connect with me:
 
-[![Website](https://img.shields.io/website?label=PairProgrammingMeetup.com&style=for-the-badge&url=https%3A%2F%2Fmeetu.ps/c/55c98/RzPwJ/d)](https://meetu.ps/c/55c98/RzPwJ/d)
+[<img align="left" alt="Emeka | Twitter" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+
+[<img align="left" alt="Emeka | LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br/>
+
+[![Website](https://img.shields.io/website?label=EmekaAnekwe.com&style=for-the-badge&url=https%3A%2F%2Femekaanekwe.com)](https://emekaanekwe.com)
 <br/>
 
 
@@ -47,4 +52,5 @@
 ---
 
 [website]: https://www.emekaanekwe.com
-[linkedin]: www.linkedin.com/in/emeka-programmer
+[linkedin]: https://www.linkedin.com/in/emeka-programmer
+[Twitter]: https://www.twitter.com/EmekaIsCoding
