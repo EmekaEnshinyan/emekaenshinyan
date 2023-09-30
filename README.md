@@ -1,26 +1,25 @@
 ## Hi there, I'm Emeka!  👋 
 ## I'm a Self-Taught Programmer Who Is Constantly Improving My Skills and Knowledge In Order To Turn My Passion Into A Career!
 
-### I'm Actively Looking For Career Opportunities (Focus: Python, Javascript, React.js)
+### I'm Actively Looking For Career Opportunities (Focus: Python, Javascript, React.js, Java)
 
-- 🌱 I’m working constantly on following my passion in becoming a software developer
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun facts: I'm a mixed martial artist who's strengths are in boxing and Muay Thai, I speak Spanish and Japanese, and I like to study the brain sciences.
+- 🌱 I’m working constantly on following my passion in becoming a programmer. My long-term goal is getting into ML/AI
+- 👯 I’m looking to collaborate with other programmers & Devs
+- ⚡ Fun facts: I'm a mixed martial artist who's strengths are in boxing and Muay Thai, I speak Spanish and Japanese, and I like to study the brain sciences!
 
 ### Join My Meetup Group To Engage in Pair Programming!
 
-[![Website](https://img.shields.io/website?label=EmekaAnekwe.com&style=for-the-badge&url=https%3A%2F%2Femekaanekwe.com)](https://emekaanekwe.com)
+[<img align="left" alt="Emeka | Meetup" width="55px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/meetup.svg" />][Meetup]
+<br/>
 <br/>
 
 ### Connect with me:
 
+[<img align="left" alt="Emeka | LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [<img align="left" alt="Emeka | Twitter" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 
-[<img align="left" alt="Emeka | LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br/>
-
-[![Website](https://img.shields.io/website?label=EmekaAnekwe.com&style=for-the-badge&url=https%3A%2F%2Femekaanekwe.com)](https://emekaanekwe.com)
-<br/>
+[![Website align="left"](https://img.shields.io/website?label=EmekaAnekwe.com&style=for-the-badge&url=https%3A%2F%2Femekaanekwe.com)](https://emekaanekwe.com)
 
 
 ### Languages and Tools:
@@ -54,3 +53,4 @@
 [website]: https://www.emekaanekwe.com
 [linkedin]: https://www.linkedin.com/in/emeka-programmer
 [Twitter]: https://www.twitter.com/EmekaIsCoding
+[Meetup]: https://www.meetup.com/the-pair-programming-community/
