@@ -29,10 +29,9 @@
 <img align="left" alt="JavaScript" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="React" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img align="left" alt="Node.js" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+<img align="left" alt="Ubuntu" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nununtu/ubuntu.png"/>
 <img align="left" alt="Terminal" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 <img align="left" alt="IntelliJ" width="46px" src="https://github.com/EmekaEnshinyan/emekaenshinyan/blob/ea1ae43808c5fe72f153d7b94ed49ada4c72a8e2/IntelliJ_IDEA_Icon.svg.png"/>
-<img align="left" alt="Visual Studio Code" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<img align="left" alt="C#" width="40px" src="https://github.com/EmekaEnshinyan/emekaenshinyan/blob/master/c-sharp-c.svg"/>
 <img align="left" alt="SQL" width="40px" src="https://github.com/EmekaEnshinyan/emekaenshinyan/blob/master/sql-icon.png"/>
 <img align="left" alt="SQL" width="40px" src="https://github.com/EmekaEnshinyan/emekaenshinyan/blob/master/Visual_Studio_Icon_2019.svg.png"/>
 
