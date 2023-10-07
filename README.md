@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other programmers & Devs
 - ⚡ Fun facts: I'm a mixed martial artist who's strengths are in boxing and Muay Thai, I speak Spanish and Japanese, and I like to study the brain sciences!
 
-### Join My Meetup Group To Engage in Pair Programming!
+### Join My Meetup Group "The Pair Programming Community"!
 
 [<img align="left" alt="Emeka | Meetup" width="55px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/meetup.svg" />][Meetup]
 <br/>
