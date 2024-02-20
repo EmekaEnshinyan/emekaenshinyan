@@ -1,5 +1,5 @@
 ## Hi there, I'm Emeka!  👋 
-## I'm a Self-Taught Programmer Who Is Constantly Improving My Skills and Knowledge In Order To Turn My Passion Into A Career!
+## I am a Self-Taught Programmer and Masters Student in Artificial Intelligence at Monash University
 
 ### I'm Actively Looking For Career Opportunities (Focus: Python, Javascript, React.js, Java)
 
