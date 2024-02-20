@@ -1,15 +1,7 @@
 ## Hi there, I'm Emeka!  👋 
 ## I am a Self-Taught Programmer and Masters Student in Artificial Intelligence at Monash University
 
-### I'm Actively Looking For Career Opportunities (Focus: Python, Javascript, React.js, Java)
-
-- 🌱 I’m working constantly on following my passion in becoming a programmer. My long-term goal is getting into ML/AI
-- 👯 I’m looking to collaborate with other programmers & Devs
 - ⚡ Fun facts: I'm a mixed martial artist who's strengths are in boxing and Muay Thai, I speak Spanish and Japanese, and I like to study the brain sciences!
-
-### Join My Meetup Group "The Pair Programming Community"!
-
-[<img align="left" alt="Emeka | Meetup" width="55px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/meetup.svg" />][Meetup]
 <br/>
 <br/>
 
